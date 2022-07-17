@@ -1,0 +1,91 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 디렉터리가 슬래시로 끝나지 않습니다. Intermediate 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  DFbxAnimation.cpp
+E:\UnityProject\dasom\charactoer_Animation\include\DSCore\XMatrix.h(78,9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxAnimation.cpp(62,72): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxAnimation.cpp(80,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DFbxMeshData.cpp
+E:\UnityProject\dasom\charactoer_Animation\include\DSCore\XMatrix.h(78,9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DFbxObj.cpp
+E:\UnityProject\dasom\charactoer_Animation\include\DSCore\XMatrix.h(78,9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(50,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(129,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(140,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(170,7): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(212,6): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(467,33): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(468,33): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(469,33): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(480,32): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(481,27): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(493,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(494,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(495,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(508,39): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(509,39): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(510,39): warning C4244: '=': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(517,60): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DFbxObj.cpp(520,75): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  DMesh.cpp
+E:\UnityProject\dasom\charactoer_Animation\include\DSCore\XMatrix.h(78,9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\UnityProject\dasom\charactoer_Animation\dasom\SampleFBXLoadercharacter1\DMesh.cpp(31,63): warning C4267: '=': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sample.cpp
+E:\UnityProject\dasom\charactoer_Animation\include\DSCore\XMatrix.h(78,9): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+DSCore.lib(DDxState.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(DDxState.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(DViewDS.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(DViewDS.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(DViewRT.obj) : warning LNK4099: '' PDB를 'DSCore.lib(DViewRT.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TCamera.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TCamera.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TCore.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TCore.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TDevice.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TDevice.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TInput.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TInput.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TMath.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TMath.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TModel.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TModel.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TTexture.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TTexture.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TTimer.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TTimer.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TWindow.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TWindow.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DSCore.lib(TWrite.obj) : warning LNK4099: 'DSCore.pdb' PDB를 'DSCore.lib(TWrite.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DSCore.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(DDSTextureLoader.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTK.lib(DDSTextureLoader.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(pch.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTK.lib(pch.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(ScreenGrab.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTK.lib(ScreenGrab.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTK.lib(WICTextureLoader.obj)' 또는 'E:\UnityProject\dasom\charactoer_Animation\out\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  SampleFBXLoadercharacter.vcxproj -> E:\UnityProject\dasom\charactoer_Animation\out\SampleFBXLoadercharacter.exe
